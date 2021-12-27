@@ -1,0 +1,170 @@
+
+:root{
+    --vermelha: #E50914;   
+    --Preta: #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-color: var(--Preta);
+    font-family: 'Times New Roman', Times, serif ;
+    color:white;
+
+}
+
+
+header .contener{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    
+}
+header .Logo{
+    margin-left: 5px;
+    color: var(--vermelha);
+    font-family: 'Arial black',Times;
+    font-size: 40px;
+
+}
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+    
+
+} 
+header nav a:hover{
+    color: #fff;
+
+
+} 
+ .filme-principal{
+     font-size: 25px;
+     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),url('../imagem/capa.png');
+     height: 600px;
+     background-size:cover;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+ }
+  .filme-principal .descricao{
+    margin-top:  10px;
+    margin-bottom: 40px;
+  } 
+  .titulo{
+      margin-top: 15%;
+      font-size: 40px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+  }
+  .botao{
+   
+    border: none;
+    color:white;
+    background-color: rgba(0,0,0,.50);
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 3s ease all;
+}
+.botao:hover{
+    background-color: white;
+    color: black;
+} .botao i{
+    margin-right: 8px;
+} 
+.contener{
+    margin-left: 20px;
+}
+.filme-principal.contener{
+    width: 70%;
+}.carrosel{
+    margin: 50px auto;
+
+    width: 1400px;
+    height: 330px;
+    outline: 3px solid black;
+    overflow: hidden;
+    box-shadow: 10px 10px 15px rgba(0,0,0,.50);
+
+
+}.carrosel ul{
+display: flex;
+list-style: none;
+width: 1200px;
+height: 250px;
+
+}.carrosel li{
+    animation:slide 15s infinite ease-out;
+    position: relative;
+
+}.texto{
+    margin: 50px auto;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+}
+
+
+
+
+footer {
+    font-family: Arial;
+    height: var(--vermelha);
+    font-size: 10px;
+	position: absolute;
+   	left: 0;
+	width: 100%;
+	background: #141414;
+}
+
+	footer div {
+		display: table;
+		margin: 0 auto;
+		padding: 44px 0;
+		width: 740px;
+		color: #777;
+	}
+	
+		footer div section {
+			display: table-cell;
+			width: 200px;
+		}
+		
+		footer div #about, footer div #blogroll {
+			padding-right: 20px;
+		}
+		
+	footer h3 {
+		color: #FFF;
+	}
+	
+	footer a {
+		color: #999;
+	}
+	
+		footer a:hover {
+			color: #FFF;
+			text-decoration: none;
+          
+		}
+	
+	footer ul {
+		margin: 0 0 0 40px;
+		list-style: square;
+		color: #565656;
+	}
+	
+		footer ul li a {
+			display: block;
+		}
+
