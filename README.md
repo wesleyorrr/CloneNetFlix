@@ -5,12 +5,12 @@
 
 
 <h1 align="center">
-	 <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img1.png" height="600" />
-  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img2.png" height="600" />
-  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img%203.png" height="600" />
-  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img4.png" height="600" />
- <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/animacao.png" height="600"/>
- <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img6.png" height="600"/>
- <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img7.png" height="600" />
+	 <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img1.png" height="250" />
+  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img2.png" height="250" />
+  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img%203.png" height="250" />
+  <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img4.png" height="250" />
+ <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/animacao.png" height="250"/>
+ <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img6.png" height="250"/>
+ <img src="https://github.com/wesleyorrr/CloneNetFlix/blob/main/post/img7.png" height="250" />
   
 </h1>
